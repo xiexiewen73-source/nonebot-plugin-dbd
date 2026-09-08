@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: nonebot-plugin-dbdmap
+Version: 0.1.0
+Summary: 黎明杀机地图查询插件
+Requires-Python: <4.0,>=3.10
+Requires-Dist: nonebot2>=2.5.0
+Requires-Dist: nonebot-adapter-onebot>=2.4.6

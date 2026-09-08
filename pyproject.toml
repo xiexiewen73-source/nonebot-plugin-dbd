@@ -1,0 +1,9 @@
+[project]
+name = "nonebot-plugin-dbdmap"
+version = "0.1.1"
+description = "黎明杀机地图查询插件"
+requires-python = ">=3.10, <4.0"
+dependencies = [
+    "nonebot2>=2.5.0",
+    "nonebot-adapter-onebot>=2.4.6",
+]
