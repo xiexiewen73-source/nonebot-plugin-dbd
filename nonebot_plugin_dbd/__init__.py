@@ -131,7 +131,7 @@ async def handle_query(event: MessageEvent,bot:Bot,args: Message = CommandArg())
             return
 
     # 拼接图片路径（使用动态绝对路径）
-    img_path = os.path.join(base_dir, "static", "DBD_Map", filename)
+    img_path = os.path.join(base_dir, "../static", "DBD_Map", filename)
 
     try:
         # 尝试发送图片
