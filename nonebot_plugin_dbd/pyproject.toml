@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "nonebot-plugin-dbdmap"
-version = "0.2.0"
+version = "0.3.1"
 description = "黎明杀机地图查询插件"
 requires-python = ">=3.10, <4.0"
 dependencies = [
